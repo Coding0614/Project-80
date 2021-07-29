@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#eb4034,#f7ef07,#05f72d)
+}
+input{
+    height: 25px;
+}
+button{
+    height: 25px;
+    font-weight: bolder;
+}
+#Sort_List{
+    display: none;
+}
